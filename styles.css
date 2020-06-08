@@ -1,0 +1,112 @@
+.navbar-brand {
+  font-size: 35px;
+}
+.bg-white {
+  font-size: 20px;
+
+}
+body {
+  font-family: 'Playfair Display', serif;
+}
+
+h6 {
+text-align: center;
+padding-top: 5%;
+margin-bottom: 5%;
+font-weight: bold;
+text-decoration: underline;
+
+}
+
+.Strive {
+  color: #941b0c;
+  font-size: 40px;
+  padding-bottom:3%;
+
+}
+
+.Home {
+  background-image: url("TOTKHomePage.jpg");
+  background-size:cover;
+  background-repeat: no-repeat;
+  width:100%;
+  height: 100vh;
+
+}
+
+.About {
+  background-color: grey;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  line-height: normal;
+  width: 100%;
+  height: 700px;
+
+}
+
+.card-deck {
+justify-content: center;
+padding-bottom: 3%;
+}
+
+.card-img {
+height: 200px;
+padding: 3%;
+border-radius: 100%;
+object-fit: fill;
+
+}
+
+.linenumber {
+  font-style: normal;
+  color: #621708;
+}
+
+.card-title {
+  font-weight: bold;
+}
+
+.linename {
+  font-style: italic;
+}
+
+.definition {
+padding-top: 4%;
+
+}
+
+.redcard:hover {
+
+  background-color: red;
+  color: white;
+}
+
+.Passion {
+
+  Background-color: #ffba08;
+  text-align: center;
+  font-style: italic;
+  color: white;
+  width: 100%;
+  height: 400px;
+  padding-top: 3%;
+}
+
+.follow {
+color: white;
+font-style: normal;
+font-weight: bold;
+font-size: 20pt;
+
+}
+
+.hashtag {
+color: white;
+font-size:18pt;
+}
+
+.socialicon {
+padding-top: 3%;
+
+}
